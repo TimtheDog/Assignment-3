@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Ryan Dautel
 # FILENAME: perceptron_mlp_training.py
 # SPECIFICATION: Train and compare a Perceptron and an MLP on digit recognition
 # FOR: CS 4210- Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 6 hours
 #-------------------------------------------------------------------------*/
 
 # IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
